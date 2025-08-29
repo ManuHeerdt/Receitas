@@ -48,7 +48,12 @@ header {
 }
 .img300 {
      width: 500px;
-      justify-content: right;
+     
+}
+.categoria-videos{
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
 }
     
 
