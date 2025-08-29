@@ -48,9 +48,8 @@ header {
 }
 .img300 {
      width: 500px;
+      justify-content: right;
+}
     
 
-}
-.categoria-videos {
-    justify-content: right;
-}
+
