@@ -12,6 +12,7 @@ section {
 .secao {
     display: flex;
     background-color: rgb(179, 8, 8);
+   
 }
 
 .texto {
