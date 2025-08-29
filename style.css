@@ -23,6 +23,10 @@ section {
     text-align: center;
 }
 
+ul li{
+    text-align: center;
+}
+
 .img200 {
     width: 200px;
     border-radius: 10px;
