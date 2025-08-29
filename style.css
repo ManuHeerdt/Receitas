@@ -20,7 +20,7 @@ section {
     flex: 1;
     padding-right: 20px;
     padding-left: 2em;
-    align-self: center;
+    text-align: center;
 }
 
 .img200 {
@@ -30,15 +30,15 @@ section {
     /* Sombra à direita */
 }
 
-    body {
-        margin: 0;
-        padding: 10px;
-        background-color: rgba(128, 196, 252, 0);
-        font-size: 17px;
-        line-height: 1.5;
-    }
+body {
+    margin: 0;
+    padding: 10px;
+    background-color: rgba(128, 196, 252, 0);
+    font-size: 17px;
+    line-height: 1.5;
+}
 
-    header {
-        margin: 0;
-        padding: 20px;
-    }
+header {
+    margin: 0;
+    padding: 20px;
+}
