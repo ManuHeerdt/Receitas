@@ -26,3 +26,16 @@ section {
     border-radius: 10px;
     box-shadow: 10px 0 15px rgba(0, 0, 0, 0.5);
     /* Sombra à direita */
+    
+    body {
+    margin: 0;
+    padding: 10px;
+    background-color: rgba(128, 196, 252, 0.712);
+    font-size: 17px;
+    line-height: 1.5;
+}
+
+header{
+    margin: 0;
+    padding: 20px;
+}
