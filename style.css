@@ -73,4 +73,7 @@ header {
         grid-template-columns: 1fr; /* Coluna única para celular */
     }
 
+    .texto h1 header ul  {
+        grid-template-columns: 1fr; /* Coluna única para celular */
+    }
 }
