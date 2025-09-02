@@ -70,6 +70,7 @@ header {
     section {
         max-width: 100%;
         margin: 0 auto;
+        grid-template-columns: 1fr; /* Coluna única para celular */
     }
 
 }
